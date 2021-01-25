@@ -20,7 +20,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Australia and New Zealand PowerShell User Group](https://anzpsug.github.io) | Online, AU/NSW & NZ/HB | Monthly | Online (Teams) / Microsoft Reactor / The Instillery South |
 | [Integration Down Under Webcast](https://www.integrationdownunder.com/) | AU | 2nd Thursday of Each Month | online |
 | [Canberra .NET User Group](https://www.meetup.com/Canberra-NET-User-Group/) | AU/ACT | 3rd Monday of every month | Microsoft Canberra |
-| [Sydney Microsoft 365 Adoption User Group](https://www.meetup.com/en-AU/Microsoft-365-Adoption/) | AU/NSW | 1st Tuesday of every month | Microsoft Reactor |
+| [Sydney Microsoft 365 Adoption User Group](https://www.meetup.com/en-AU/Microsoft-365-Adoption/) | AU/NSW | 1st Tuesday of every month | Online (Teams) | Microsoft Reactor |
 | [Sydney UC - Microsoft Teams & Skype for Business](https://www.meetup.com/sydney-uc/) | AU/NSW | Last Weds of Feb, May, Aug & Nov | Sydney CBD |
 | [Sydney SharePoint User Group](https://www.meetup.com/en-AU/Sydney-SharePoint-User-Group/) | AU/NSW | 3rd Tuesday of every month | Microsoft Reactor |
 | [Sydney PowerApps and Flow User Group](https://www.meetup.com/en-AU/Sydney-PowerApps-Flow-UserGroup/) | AU/NSW | Monthly | Microsoft Reactor |
@@ -48,6 +48,7 @@ Of course! We'd love you to! See the [contribution guide](contributing.md) for h
 | [Adelaide Microsoft IT Pro Community](https://www.meetup.com/Adelaide-Microsoft-ITPro-Community/) | AU/SA | Monthly | Microsoft |
 | [Melbourne Microsoft Cloud and Datacenter Meetup](https://www.meetup.com/Melbourne-Microsoft-Cloud-and-Datacenter-Meetup/) | AU/VIC | Every 2 months | "here and there" |
 | [Melbourne Microsoft 365 Technical Meetup](https://www.meetup.com/en-AU/Melbourne-Microsoft-365-Technical-Meetup/) | AU/VIC | 4th Wednesday of every month | Microsoft |
+| [Melbourne Microsoft 365 Adoption User Group](https://www.meetup.com/en-AU/Microsoft-365-Adoption-Melbourne/) | AU/VIC | 1st Friday of every month | Online (Teams) | Microsoft|
 | [Melbourne Skype and Teams User Group](https://www.meetup.com/en-AU/Melbourne-UC/) | AU/VIC | Wednesday every 3 months | Microsoft |
 | [Melbourne SQL Server User Group](https://melbourne.pass.org/) | AU/VIC | 3rd Tuesday of every month | Microsoft |
 | [Melbourne Power BI User Group](https://www.meetup.com/Power-BI-Melbourne/) | AU/VIC | Monthly | Servian Offices (Level 20, Tower 5, Docklands) |
